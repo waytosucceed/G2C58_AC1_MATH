@@ -1,0 +1,57 @@
+[
+    {
+        "questionNo": "Q1",
+        "question": "Use the number line to tell what is <br>10 ÷ 2?<br><img width='95%' src='./images/26.jpg'>",
+        "options": [
+            "4",
+            "5",
+            "2",
+            "3"
+        ],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q2",
+        "question": "Use the number line to tell what is <br>15 ÷ 3?<br><img width='95%' src='./images/27.jpg'>",
+        "options": [
+            "3",
+            "4",
+            "5",
+            "2"
+        ],
+        "correct": 2
+    },
+    {
+        "questionNo": "Q3",
+        "question": "Look at the number line and tell what is <br>12 ÷ 4?<br><img width='95%' src='./images/28.jpg'>",
+        "options": [
+            "2",
+            "3",
+            "4",
+            "6"
+        ],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q4",
+        "question": "What is 18 ÷ 6?<br><img width='95%' src='./images/29.jpg'>",
+        "options": [
+            "1",
+            "2",
+            "3",
+            "4"
+        ],
+        "correct": 2
+    },
+    {
+        "questionNo": "Q5",
+        "question": "What is 20 ÷ 5?<br><img width='95%' src='./images/30.jpg'>",
+        "options": [
+            "4",
+            "3",
+            "5",
+            "2"
+        ],
+        "correct": 0
+    }
+]
